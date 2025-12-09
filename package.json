@@ -1,0 +1,18 @@
+{
+  "name": "hw-5-bewd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.4",
+    "dotenv": "^17.2.3",
+    "hapi-auth-jwt2": "^11.0.0",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
